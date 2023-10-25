@@ -1,0 +1,57 @@
+[*]
+[*] GTKWave Analyzer v3.3.103 (w)1999-2019 BSI
+[*] Wed Oct 18 16:59:29 2023
+[*]
+[dumpfile] "/home/ubuntu/soc/SOC_lab_fir/fir/fir_mine.vcd"
+[dumpfile_mtime] "Wed Oct 18 16:51:59 2023"
+[dumpfile_size] 3384298
+[savefile] "/home/ubuntu/soc/SOC_lab_fir/fir/fir_mine.gtkw"
+[timestart] 78628500
+[size] 1848 911
+[pos] -1 -14
+*-15.470533 78783300 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] fir_tb.
+[sst_width] 233
+[signals_width] 206
+[sst_expanded] 1
+[sst_vpaned_height] 242
+@22
+fir_tb.fir_DUT.awaddr[11:0]
+@28
+fir_tb.fir_DUT.awvalid
+fir_tb.fir_DUT.awready
+@22
+fir_tb.fir_DUT.araddr[11:0]
+@28
+fir_tb.fir_DUT.arready
+fir_tb.fir_DUT.read_stage[1:0]
+@420
+fir_tb.fir_DUT.wdata[31:0]
+@28
+fir_tb.fir_DUT.wready
+fir_tb.fir_DUT.wvalid
+@22
+fir_tb.fir_DUT.araddr[11:0]
+@28
+fir_tb.fir_DUT.arvalid
+@24
+fir_tb.fir_DUT.tap_A[11:0]
+fir_tb.fir_DUT.pattern_number[9:0]
+@28
+fir_tb.fir_DUT.arready
+fir_tb.fir_DUT.sm_tready
+fir_tb.fir_DUT.sm_tvalid
+@420
+fir_tb.fir_DUT.Xn[31:0]
+fir_tb.fir_DUT.sm_tdata[31:0]
+@28
+fir_tb.fir_DUT.sm_tvalid
+@24
+fir_tb.fir_DUT.c_state[1:0]
+@28
+fir_tb.fir_DUT.rvalid
+fir_tb.fir_DUT.rready
+@420
+fir_tb.fir_DUT.rdata[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
